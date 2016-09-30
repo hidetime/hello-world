@@ -1,2 +1,2 @@
 # hello-world
-Creating a repository
+Making and commiting changes.
